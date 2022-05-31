@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6f9a112.css",
+    "main.js": "/static/js/main.34ffe463.js",
+    "static/media/IQr6.png": "/static/media/IQr6.76574cef41ad5def3fad.png",
+    "static/media/fortnite-wallpaper.jfif": "/static/media/fortnite-wallpaper.bcbf35bb462e1798899b.jfif",
+    "static/media/lol-background.jfif": "/static/media/lol-background.00d229ad4b61825f91ad.jfif",
+    "static/media/kratos.png": "/static/media/kratos.21a517839618d69dc256.png",
+    "static/media/overwatch2-logo.jpg": "/static/media/overwatch2-logo.bc7d720f1ac5084da75b.jpg",
+    "static/media/r6-bg.jpg": "/static/media/r6-bg.a6f97153f62f3d8f860a.jpg",
+    "static/media/overwatch2-bg.jpg": "/static/media/overwatch2-bg.3b71b0d5eadb9ce79779.jpg",
+    "static/media/forza-bg.jpg": "/static/media/forza-bg.34c7cc7e43056b1db4ea.jpg",
+    "static/media/cuphead-bg.jpg": "/static/media/cuphead-bg.f791cd2ed705a309e3d5.jpg",
+    "static/media/lol-logo.jpeg": "/static/media/lol-logo.4c1692550ca6d3893ad7.jpeg",
+    "static/media/forza-logo.jpg": "/static/media/forza-logo.2c2628b916dd1f9437b2.jpg",
+    "static/media/lol-bg.jpg": "/static/media/lol-bg.4d1bc8edec26b981b77e.jpg",
+    "static/media/cuphead-logo.jpg": "/static/media/cuphead-logo.7d6e73b124cd2c6413d4.jpg",
+    "static/media/fifa-logo.jpg": "/static/media/fifa-logo.b10f1aee884b6f6f989a.jpg",
+    "static/media/miles-morales.jpg": "/static/media/miles-morales.7656736100aa65cb267c.jpg",
+    "static/media/fifa-bg.jpg": "/static/media/fifa-bg.800c8ce5ed226bbcfd2e.jpg",
+    "index.html": "/index.html",
+    "main.e6f9a112.css.map": "/static/css/main.e6f9a112.css.map",
+    "main.34ffe463.js.map": "/static/js/main.34ffe463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f9a112.css",
+    "static/js/main.34ffe463.js"
+  ]
+}
